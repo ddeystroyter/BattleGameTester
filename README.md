@@ -11,7 +11,7 @@ New units can be added to the field, which can be modified with attack/defense c
 
 ### Saved Squads
 
-Squads you can spawn at battlegrid. (Saves is .json format file)
+Squads you can spawn at battlegrid. (Saves - .json format file)
 <p align="center">
   <img width="80%" src="https://i.imgur.com/M40Z3cc.png" alt="SavedSquads">
 </p>
